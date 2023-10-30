@@ -1,6 +1,10 @@
 # ParserForCalculator
 
-Hello Sir this is Andrean Hasan 2501982550
+Hello Sir this is for our group:
+Andrean Hasan 2501982550
+
+Wilbert Wirawan Ichwan 2501963186
+
 For this quiz I add :
 
 1)Blank Space Detectore (2)
